@@ -1,20 +1,12 @@
-# EcoSnap
+# Sol_Recycle
 
 
 https://user-images.githubusercontent.com/7581348/208559445-a449cef6-0ae1-4c08-b9a5-c591062c3a3e.mp4
 
 
-Recycle your plastic better with Artificial Intelligence ♻️
+Recycle your unused items better with AI and match with potential buyers
 
-EcoSnap tells you how and where to recycle your items from a simple picture, with advice tailored to your location. We built this product in a week for [Ben's Bites AI Hackathon](https://alyssax.substack.com/p/we-built-an-ai-recycling-app-in-a).
-
-👉 [Try it now - it's free with no sign in needed](https://ecosnap.vercel.app)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/alyssaxuu/ecosnap)
-
-> You can support this project (and many others) through [GitHub Sponsors](https://github.com/sponsors/alyssaxuu)! ❤️
-
-Made by [Alyssa X](https://twitter.com/alyssaxuu) & [Leo](https://www.linkedin.com/in/leonorfurtado/). Read more about how we built this [here](https://alyssax.substack.com/p/we-built-an-ai-recycling-app-in-a).
+Sol_Recycle tells you how and where to recycle your items from a simple picture, with advice tailored to your location and match the buyers. 
 
 <a href="https://www.producthunt.com/posts/ecosnap?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ecosnap" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=374164&theme=neutral" alt="EcoSnap - Recycle&#0032;your&#0032;plastic&#0032;better&#0032;with&#0032;Artificial&#0032;Intelligence | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
